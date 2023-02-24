@@ -1,0 +1,12 @@
+{
+    "name": "paytring/php",
+    "description": "php sdk for paytring",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Paytring\\Php\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
